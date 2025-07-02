@@ -23,7 +23,6 @@ This is a simple chessboard created using only HTML and CSS.
 - HTML5
 - CSS3
 - Google Fonts (Cinzel)
-- GitHub Pages (optional hosting)
 
 
 ## 👨‍💻 Author
@@ -35,8 +34,7 @@ This is a simple chessboard created using only HTML and CSS.
 ## 🚀 How to Use
 
 1. Clone or download the project
-2. Open `index.html` in any modern browser
-3. Customize styles or add pieces to improve the project
+2. Customize styles or add pieces to improve the project
 
 
 ## 📢 License
